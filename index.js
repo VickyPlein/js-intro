@@ -17,7 +17,16 @@ busimos temos:
 - ternary
 - switch
 -ciklai (for)
--funkcijos
+   - for
+   - while
+   - do-while
+   - for-of
+   - for-in
+   - kiti cikliski metodai
+- funkcijos
+   - function
+   - arrow function
+   - class
 -ivykiai (events listeners)
 
 */
